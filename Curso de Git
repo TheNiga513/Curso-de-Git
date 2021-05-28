@@ -1,0 +1,12 @@
+me muevo en la consola a la carpeta del proyecto de git usando cd
+
+git init: para inicializar Git
+
+git status: para ver que archivos hay en la carpeta del proyecto
+
+git add: para agregar archivos al index
+
+git add -A: para agregartodos los archivos delo directorio al index
+
+git rm --cached "nombre del archivo": para remover un archivo agregado al index
+
