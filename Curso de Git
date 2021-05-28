@@ -19,3 +19,7 @@ git log: para consultar la lista de commits que se hallan hecho
 
 git checkout 501af7430a6feb1e3856016873edfda04a512314 : para viajar a un commit o una rama en el repositorio
 
+
+git checkout master: para regresar a la rama principal
+
+
