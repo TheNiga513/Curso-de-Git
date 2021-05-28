@@ -10,3 +10,9 @@ git add -A: para agregartodos los archivos delo directorio al index
 
 git rm --cached "nombre del archivo": para remover un archivo agregado al index
 
+
+commit: punto de salvado
+
+git commit -m "Seccion 2 video 3"
+
+git log: para consultar la lista de commits que se hallan hecho
