@@ -22,4 +22,19 @@ git checkout 501af7430a6feb1e3856016873edfda04a512314 : para viajar a un commit 
 
 git checkout master: para regresar a la rama principal
 
+Head: estatus actual de tu proyecto
+master: último commit hecho
+
+Reset: salto que borra a su paso
+
+Reset soft:
+git reset --soft b84f17e6ff1d6f27c9b1541fa98beb7c88b6c752
+borra el commit de la lista de log y conserva el archivo
+
+git reset --hard
+borra todo y piedes el trabajo
+
+git branch: para ver las ramas
+
+git branch pruebas: agrego la rama prueba
 
