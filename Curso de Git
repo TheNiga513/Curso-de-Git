@@ -51,16 +51,3 @@ git remote -v: para ver lo que se ha conectado
 
 git push origin master
 git push -u origin master
-
-git push origin master
-git push -u origin master
-
-git push origin master
-git push -u origin master
-
-
-
-
-
-
-
