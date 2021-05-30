@@ -38,3 +38,21 @@ git branch: para ver las ramas
 
 git branch pruebas: agrego la rama prueba
 
+git checkout pruebas: cambio a la rama pruebas
+
+git merge pruebas: para fusionar la rama pruebas con la master, debo estar ubicado sobre la rama master
+
+git branch pruebas -D: para borrar la rama pruebas
+
+Conectando con GitHub:
+git remote add origin htts//: introdusco el comando en la terminal para enlazar mi repositorio local con GitHub
+
+git remote -v: para ver lo que se ha conectado
+
+
+
+
+
+
+
+
