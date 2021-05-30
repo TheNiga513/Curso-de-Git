@@ -49,6 +49,14 @@ git remote add origin htts//: introdusco el comando en la terminal para enlazar 
 
 git remote -v: para ver lo que se ha conectado
 
+git push origin master
+git push -u origin master
+
+git push origin master
+git push -u origin master
+
+git push origin master
+git push -u origin master
 
 
 
